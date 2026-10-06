@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790578384605,
+      "tag": "0000_furry_morlocks",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790615581817,
+      "tag": "0001_loving_molten_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790647007778,
+      "tag": "0002_minimize_provider_data",
+      "breakpoints": true
+    }
+  ]
+}
